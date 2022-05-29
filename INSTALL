@@ -1,0 +1,9 @@
+Building Gemoneycoin
+
+See doc/readme-qt.rst for instructions on building Gemoneycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gemoneycoin.
+
+See doc/build-*.txt for instructions on building gemoneycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gemoneycoin.
