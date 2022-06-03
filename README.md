@@ -3,8 +3,8 @@ Gemoneycoin integration/staging tree
 
 http://www.gemoneycoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Gemoneycoin Developers
+Copyright (c) 2011 Bitcoin Developers
+Copyright (c) 2022 Gemoneycoin Developers
 
 What is Gemoneycoin?
 ----------------
